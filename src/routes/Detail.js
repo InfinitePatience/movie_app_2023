@@ -5,7 +5,7 @@ import '../styles/Detail.css'
 function Detail() {
   const location = useLocation();
   console.log(location);
-  const {genres,id,poster,summary,title,year} = location.state;
+  const {genres,poster,summary,title,year} = location.state;
   return (
     <div className='Detail'>
       <img src={poster} alt={title} title={title} />
