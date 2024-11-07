@@ -20,5 +20,3 @@ __*OTT 서비스 넷플릭스를 React를 사용하여 제작한 Netflix 실습 
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/The Movie DataBase-black?style=flat&logo=themoviedatabase&logoColor=white"/> 
-
-#eeeeee
