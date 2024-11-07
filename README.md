@@ -13,4 +13,12 @@ __*OTT 서비스 넷플릭스를 React를 사용하여 제작한 Netflix 실습 
 > + __반응형 페이지 제작__ : <ins>__*Responsive Design*__</ins> 으로 제작되었습니다.
 
 ## 🛠 사용된 기술 스택
-[![My Skills](https://skillicons.dev/icons?i=react,html,javascript,scss,css,firebase,tmdb,axios&perline=3)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/The Movie DataBase-black?style=flat&logo=themoviedatabase&logoColor=white"/> 
+
+#eeeeee
